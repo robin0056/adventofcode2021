@@ -1,3 +1,3 @@
-# Welcome to my approaches for adventofcode2021!
+# Welcome to my Approaches for AdventOfCode2021!
 
-I publish my scripts one day after challenge day
+I try to solve the puzzles via Python and publish my results one day after challenge day.
