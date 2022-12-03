@@ -20,5 +20,3 @@ def simulate(population, days):
 with open('input.txt') as file:
     population = [int(x) for x in file.read().rstrip().split(",")]
     print(simulate(population, 80), simulate(population, 256))
-
-    
